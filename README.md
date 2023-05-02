@@ -1,5 +1,5 @@
 # power_outage_project
-In this project I created a power outage severity prediction model
+This project contains a baseline model and final model to predict the severity of a given power outages as measured by the number of customers affected. The final model uses a Random Forest Regression and is evaluated using R-squared. 
 
 outages.xslx: Input data file containing US power outage data
 
